@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Learning React Hooks
+
+Welcome to the React Hooks Learning Repository! This repository is designed to help you understand and master React Hooks, including `useEffect()`, `useState()`, and `useReducer()`. Whether you're a beginner looking to get started with React or an experienced developer aiming to deepen your knowledge of hooks, you've come to the right place.
+
+In this repository, we focus on three fundamental React Hooks:
+
+- **`useEffect()`**: Learn how to manage side effects and perform actions after rendering.
+- **`useState()`**: Understand how to add state to functional components.
+- **`useReducer()`**: Explore state management with more complex logic.
+
+  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -31,7 +41,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Note: This is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
